@@ -1,5 +1,4 @@
 import { useState } from 'react'
-import { motion } from 'framer-motion'
 import Header from '../shared/Header'
 import ContentCard from '../shared/ContentCard'
 import Button from '../shared/Button'

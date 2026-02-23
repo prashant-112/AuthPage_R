@@ -4,7 +4,7 @@ A beautiful, interactive multi-step account creation form built with React, Type
 
 ## 🚀 Live Demo
 
-[Deployed on Vercel](https://rootpay-account-creation.vercel.app)
+[Deployed on Vercel](https://auth-page-r.vercel.app/)
 
 ## ⚠️ Important: Node.js Version Requirement
 
